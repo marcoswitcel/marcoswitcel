@@ -24,6 +24,8 @@
   <img align="center" alt="Joao-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Joao-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Joao-Vagrant" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" />
+<img align="center" alt="Joao-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+  
 </div>
   
 ##
