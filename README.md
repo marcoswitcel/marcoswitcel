@@ -1,4 +1,4 @@
-### Olá, sou o João Marcos 👋👋👋
+### Olá, sou João Marcos 👋👋👋
 
 <div align="center">
   <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marcoswitcel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="Joao-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Joao-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Joao-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" />
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Joao-Haxe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" />
   <img align="center" alt="Joao-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
